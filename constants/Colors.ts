@@ -1,4 +1,4 @@
-const tintColorLight = "#0a7ea4";
+const tintColorLight = "#DC2626";
 const tintColorDark = "#fff";
 
 export const zincColors = {
@@ -17,6 +17,9 @@ export const zincColors = {
 
 export const appleBlue = "#007AFF";
 export const appleRed = "#FF3B30";
+export const printologersRed = "#DC2626";
+export const printologersRedLight = "#EF4444";
+export const printologersRedDark = "#B91C1C";
 
 export const borderColor = "#A1A1AA80";
 export const appleGreen = "#34C759";
